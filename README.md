@@ -37,6 +37,15 @@ Course Code: CSE 2415
 
 Semester: 4th
 
+#
+
+Course Name: Matrix, Linear Algebra & Differential Equation 
+<br>
+
+Course code: MAT 2207
+<br>
+
+Semester: 4th
 
 
 
